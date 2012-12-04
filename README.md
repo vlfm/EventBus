@@ -10,3 +10,9 @@ Signature of event handle method is 'handleABC:', where ABC is type of event.
 For example, if object wants to subscribe to 'Foo' event, it must have 'handleFoo:' method implemented.
 
 EventBus does not retain its subscribers.
+
+Requirements:
+-------------
+
+* iOs 5.0
+* Arc
